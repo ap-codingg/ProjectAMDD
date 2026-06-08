@@ -1,5 +1,5 @@
 # AMD Project
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j96VOMR76agPEiJ4bjusgV4RvhcdfU5l)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AV_rqicDYD1o3oKAXsQWkBqGRbEdmCeS)
 
 ## Overview
 This project aim is to create a ranking of authors of scientific papers based on PageRank index.
