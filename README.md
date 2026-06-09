@@ -5,7 +5,7 @@
 This project aim is to create a ranking of authors of scientific papers based on PageRank index.
 
 ## Steps to run
-1. COnfiguring Kaggle credential
+1. Configuring Kaggle credential
 2. Downloading arXiv dataset
 3. Extracting informations about authors
 4. Building a co-authorship network
@@ -13,4 +13,4 @@ This project aim is to create a ranking of authors of scientific papers based on
 6. Visualizing the authors with most papers
 
 ## Requirements
-pip install pandas scipy networkx matplotlib kaggle
+pip install pandas scipy igraph matplotlib kaggle
